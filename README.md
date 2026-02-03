@@ -2,7 +2,6 @@
 > “Quality is not about finding defects late.  
 > It is about understanding system behavior early and protecting correctness as products scale.”
 
-## About Me
 
 I am a QA Engineer with 4+ years of experience working in high-pressure startup and product environments, focused on building reliable, automation-driven quality systems for complex, workflow-heavy platforms.
 
