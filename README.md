@@ -5,7 +5,7 @@
 
 I am a QA Engineer with 4+ years of experience working in high-pressure startup and product environments, focused on building reliable, automation-driven quality systems for complex, workflow-heavy platforms.
 
-My work centers on ensuring that business-critical systems behave correctly under real-world conditions — particularly platforms driven by data, automation, and AI-assisted decision logic.
+My work centers on ensuring that business-critical systems behave correctly under real-world conditions particularly platforms driven by data, automation and AI-assisted decision logic.
 
 ## Current Focus
 
@@ -15,7 +15,7 @@ I work on B2B and AI-adjacent platforms where:
 - Data accuracy directly impacts downstream automation and intelligence  
 - Failures are costly and often non-obvious  
 
-At FoodBridge, I contribute to end-to-end QA for a supply-chain platform that connects sellers, buyers, and partners, ensuring order, pricing, inventory, and onboarding workflows remain stable as the system scales.
+At FoodBridge, I contribute to end-to-end QA for a supply-chain platform that connects sellers, buyers and partners, ensuring order, pricing, inventory and onboarding workflows remain stable as the system scales.
 
 Previously, at Gaply, I automated the platform’s core AI gap analysis workflow.
 
@@ -31,11 +31,13 @@ Previously, at Gaply, I automated the platform’s core AI gap analysis workflow
 
 ### API Test Automation Framework
 https://github.com/maheshsalunkhe07/demo-api-test-automation-framework
-Reusable REST API automation using Java, REST Assured, Cucumber, and Maven.
+
+Reusable REST API automation using Java, REST Assured, Cucumber and Maven.
 
 ### UI Test Automation Framework
 https://github.com/maheshsalunkhe07/demo-ui-test-automation-framework
-End-to-end UI automation using Selenium, Cucumber, and TestNG.
+
+End-to-end UI automation using Selenium, Cucumber and TestNG.
 
 ## Technical Stack
 
@@ -46,6 +48,7 @@ Languages: Java
 ## Contact
 
 Email: maheshsalunkhe601@gmail.com
+
 Linkedin: www.linkedin.com/in/mahesh-salunkhe-98a445372
 
 > Quality is not a phase. It is a system property.
